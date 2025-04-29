@@ -59,7 +59,7 @@ Recommendations
 Visual Insights & Exploratory Charts
 
 **Distribution of Match Outcomes**
-![Distribution of Match Outcomes](./DistributionOfMatchOutcomes.png)  
+Distribution of Match Outcomes
 Illustrates outcome types (by runs, wickets, ties), highlighting that most IPL matches are won by wickets — a sign of chasing team dominance.
 
 **Impact of Win Margin Category**
