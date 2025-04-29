@@ -58,25 +58,33 @@ Recommendations
 
 Visual Insights & Exploratory Charts
 
-**Distribution of Match Outcomes**
-Distribution of Match Outcomes
+1. Distribution of Match Outcomes
+![Distribution of Match Outcomes](./DistributionOfMatchOutcomes.png)  
 Illustrates outcome types (by runs, wickets, ties), highlighting that most IPL matches are won by wickets — a sign of chasing team dominance.
 
-**Impact of Win Margin Category**
+---
+
+2. Impact of Win Margin Category
 ![Impact of Margin Win Category](./ImpactOfMarginWinCategory.png)  
 Categorizes match outcomes by margin: High, Medium, Low. Most games fall under medium margins, suggesting closely contested matches.
 
-**Impact of Toss on Match Outcome**
+---
+
+3. Impact of Toss on Match Outcome
 ![Impact of Toss on Match Outcome](./ImpactOfTossOnMatchOutcome.png)  
 Assesses toss influence — win rate is slightly higher when winning the toss, but not drastically, challenging the overemphasis on toss importance.
 
-**Season-wise Match Counts**
-![Season-wise Match Counts](https://github.com/yaswanth-wuyyuru/Analyzing-IPL-Data-using-PySpark-Unveiling-Insights-and-Trends/blob/main/PlotDiagrams/SeasonWiseMatchCounts.png?raw=true)  
+---
+
+4. Season-wise Match Counts
+![Season-wise Match Counts](./SeasonWiseMatchCounts.png)  
 Reveals match volume per season. Peak activity in 2012–2013 followed by stabilization after 2015 indicates league growth trends.
 
-**Top 10 Match Venues**
+---
+
+5. Top 10 Match Venues
 ![Top 10 Match Venues](./Top10MatchVenues.png)  
-Bar chart of top venues by match count. M Chinnaswamy and Eden Gardens dominate, useful for planning high-attendance games.
+Bar chart of top venues by match count. M Chinnaswamy and Eden Gardens dominate, useful for planning high-attendance games.ardens dominate, useful for planning high-attendance games.
 
 ---
 
