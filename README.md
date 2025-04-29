@@ -71,7 +71,7 @@ Categorizes match outcomes by margin: High, Medium, Low. Most games fall under m
 Assesses toss influence — win rate is slightly higher when winning the toss, but not drastically, challenging the overemphasis on toss importance.
 
 **Season-wise Match Counts**
-![Season-wise Match Counts](./SeasonWiseMatchCounts.png)  
+![Season-wise Match Counts](https://github.com/yaswanth-wuyyuru/Analyzing-IPL-Data-using-PySpark-Unveiling-Insights-and-Trends/blob/main/PlotDiagrams/SeasonWiseMatchCounts.png?raw=true)  
 Reveals match volume per season. Peak activity in 2012–2013 followed by stabilization after 2015 indicates league growth trends.
 
 **Top 10 Match Venues**
